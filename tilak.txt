@@ -1,2 +1,1 @@
-This is java tpoints and tutorial poinss
-this is c language
+This is java tpoints and tutorial points
